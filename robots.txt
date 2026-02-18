@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sedici16.github.io/laspezia-site/sitemap.xml
