@@ -1,0 +1,448 @@
+INTERNAL LINK AUDIT — La Spezia Shore Site
+==========================================
+21 HTML files total | Updated after 3rdpass.txt changes
+Active pages: 20 | Legacy orphan: 1 (activities-from-la-spezia-cruise-port.html)
+All pages share identical NAV and FOOTER links (listed once below, then omitted per page).
+
+NOTES:
+  - #book anchor links excluded (no .html target)
+  - pages using .page-header section (cinque-terre, porto-venere) have no hero buttons —
+    breadcrumb links within those headers are not listed (all → index.html)
+  - [NEW] = added during 3rdpass.txt changes
+  - [was activities] = was activities-from-la-spezia-cruise-port.html, updated to index.html
+
+══════════════════════════════════════════
+SHARED STRUCTURE (same on every page)
+══════════════════════════════════════════
+
+NAV (5 links)
+  → index.html                                          "Home"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursions"
+  → half-day-excursions-la-spezia-cruise.html           "Half-Day Trips"
+  → ligurian-food-la-spezia-cruise.html                 "Food & Culture"
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt" [nav-cta]
+
+FOOTER — Destinations (6 links)
+  → cinque-terre-from-la-spezia-cruise-port.html        "Cinque Terre"
+  → porto-venere-from-la-spezia-cruise.html             "Porto Venere"
+  → lerici-from-la-spezia-cruise.html                   "Lerici"
+  → lucca-from-la-spezia-cruise-port.html               "Lucca"
+  → best-beaches-near-la-spezia-cruise.html             "Beaches"
+  → la-spezia-city-guide-cruise-passengers.html         "La Spezia City"
+
+FOOTER — Plan Your Day (5 links)
+  → best-excursions-la-spezia-cruise-ranked.html        "Best Excursions"
+  → half-day-excursions-la-spezia-cruise.html           "Half-Day Options"
+  → independent-vs-guided-tours-la-spezia.html          "Independent vs Guided"
+  → private-vs-group-shore-excursions-la-spezia.html    "Private vs Group"
+  → unique-experiences-la-spezia-cruise.html            "Unique Experiences"
+
+FOOTER — Truffle Experiences (4 links)
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → private-truffle-hunting-tour-la-spezia.html         "Private Tour"
+  → truffle-hunting-liguria-what-to-expect.html         "What to Expect"
+  → la-spezia-shore-excursion-truffle-hunting.html      "Shore Excursion"
+
+══════════════════════════════════════════
+PAGE-BY-PAGE: HERO + BODY + CTA LINKS
+(NAV & FOOTER excluded — see above)
+══════════════════════════════════════════
+
+──────────────────────────────────────────
+1. index.html  [HOME PAGE — replaces activities-from-la-spezia-cruise-port.html]
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "Compare All Excursions"
+
+BODY
+  → cinque-terre-from-la-spezia-cruise-port.html        "visiting Cinque Terre from La Spezia cruise port"
+  → porto-venere-from-la-spezia-cruise.html             "Porto Venere from La Spezia cruise guide"
+  → lerici-from-la-spezia-cruise.html                   "Lerici cruise day trip guide"
+  → best-beaches-near-la-spezia-cruise.html             "best beaches near La Spezia cruise port"
+  → pisa-from-la-spezia-cruise-port.html                "Pisa from La Spezia guide"
+  → lucca-from-la-spezia-cruise-port.html               "Lucca day trip guide"
+  → la-spezia-city-guide-cruise-passengers.html         "La Spezia city guide for cruise passengers"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt from La Spezia cruise port"
+  → best-excursions-la-spezia-cruise-ranked.html        "honest ranking of the best excursions from La Spezia"
+  → independent-vs-guided-tours-la-spezia.html          "independent vs guided tours from La Spezia"
+  → half-day-excursions-la-spezia-cruise.html           "best half-day excursions from La Spezia"
+  → la-spezia-food-experiences-comparison.html          "comparison of La Spezia food experiences"
+  → private-vs-group-shore-excursions-la-spezia.html    "guide to private vs group shore excursions from La Spezia"  [NEW]
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+2. cinque-terre-from-la-spezia-cruise-port.html
+──────────────────────────────────────────
+HEADER: page-header — breadcrumb only (no hero buttons)
+
+BODY
+  → cinque-terre-villages-ranked-cruise.html            "Cinque Terre villages ranked for cruise passengers"
+  → independent-vs-guided-tours-la-spezia.html          "independent vs guided tours from La Spezia cruise port"
+  → ligurian-food-la-spezia-cruise.html                 "guide to Ligurian food and culture"  [NEW]
+  → best-excursions-la-spezia-cruise-ranked.html        "best excursions from La Spezia ranked"
+  → unique-experiences-la-spezia-cruise.html            "unique experiences near La Spezia cruise port"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt in the Ligurian hills"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Discover the Truffle Hunt"
+
+──────────────────────────────────────────
+3. porto-venere-from-la-spezia-cruise.html
+──────────────────────────────────────────
+HEADER: page-header — breadcrumb only (no hero buttons)
+
+BODY
+  → ligurian-food-la-spezia-cruise.html                 "Ligurian food and culture guide"  [NEW]
+  → index.html                                          "best activities from La Spezia cruise port"  [was activities]
+  → half-day-excursions-la-spezia-cruise.html           "guide to half-day excursions from La Spezia"
+  → la-spezia-food-experiences-comparison.html          "comparison of La Spezia food experiences"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt from La Spezia cruise port"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+4. lucca-from-la-spezia-cruise-port.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursion Options"
+
+BODY
+  → pisa-from-la-spezia-cruise-port.html                "Pisa from La Spezia guide"
+  → best-excursions-la-spezia-cruise-ranked.html        "ranked guide to excursions from La Spezia"
+  → independent-vs-guided-tours-la-spezia.html          "independent vs guided tours from La Spezia cruise port"
+  → index.html                                          "activities to do from La Spezia cruise port"  [was activities]
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunting shore excursion guide"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+5. best-beaches-near-la-spezia-cruise.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursion Options"
+
+BODY
+  → lerici-from-la-spezia-cruise.html                   "Lerici day trip guide"
+  → porto-venere-from-la-spezia-cruise.html             "Porto Venere from La Spezia"
+  → half-day-excursions-la-spezia-cruise.html           "guide to half-day excursions from La Spezia"
+  → index.html                                          "activities to do from La Spezia cruise port"  [was activities]
+  → truffle-hunt-la-spezia-cruise-port.html             "Explore the Truffle Hunt"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Explore the Truffle Hunt"
+
+──────────────────────────────────────────
+6. la-spezia-city-guide-cruise-passengers.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursion Options"
+
+BODY
+  → ligurian-food-la-spezia-cruise.html                 "Ligurian food for cruise passengers"
+  → la-spezia-food-experiences-comparison.html          "comparison of La Spezia food experiences"
+  → index.html                                          "activities to do from La Spezia cruise port"  [was activities]
+  → unique-experiences-la-spezia-cruise.html            "guide to unique experiences near La Spezia"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+7. lerici-from-la-spezia-cruise.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursion Options"
+
+BODY
+  → best-beaches-near-la-spezia-cruise.html             "best beaches near La Spezia cruise port"
+  → ligurian-food-la-spezia-cruise.html                 "Ligurian food guide for cruise passengers"
+  → best-excursions-la-spezia-cruise-ranked.html        "ranked guide to excursions from La Spezia cruise port"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunting shore excursion from La Spezia"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+8. cinque-terre-villages-ranked-cruise.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursion Options"
+
+BODY
+  → best-beaches-near-la-spezia-cruise.html             "beaches near La Spezia"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt from La Spezia"
+  → best-excursions-la-spezia-cruise-ranked.html        "honest ranking of excursions from La Spezia cruise port"
+  → independent-vs-guided-tours-la-spezia.html          "independent vs guided tours from La Spezia"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+9. pisa-from-la-spezia-cruise-port.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursion Options"
+
+BODY
+  → lucca-from-la-spezia-cruise-port.html               "Lucca day trip guide"
+  → best-excursions-la-spezia-cruise-ranked.html        "complete excursion ranking"
+  → independent-vs-guided-tours-la-spezia.html          "independent vs guided tours from La Spezia"
+  → unique-experiences-la-spezia-cruise.html            "unique experiences near La Spezia cruise port"
+  → index.html                                          "activities from La Spezia cruise port guide"  [was activities]
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+10. ligurian-food-la-spezia-cruise.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursion Options"
+
+BODY
+  → la-spezia-food-experiences-comparison.html          "La Spezia food experiences comparison"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt shore excursion from La Spezia"
+  → la-spezia-city-guide-cruise-passengers.html         "La Spezia city guide for cruise passengers"
+  → la-spezia-food-experiences-comparison.html          "La Spezia food experiences guide"  [duplicate link, two anchor texts]
+  → index.html                                          "La Spezia cruise port activities guide"  [was activities]
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+11. best-excursions-la-spezia-cruise-ranked.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → index.html                                          "All Excursion Options"  [was activities]
+
+BODY
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt from La Spezia cruise port"
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour"
+  → porto-venere-from-la-spezia-cruise.html             "Porto Venere guide"
+  → cinque-terre-from-la-spezia-cruise-port.html        "Cinque Terre guide"
+  → cinque-terre-villages-ranked-cruise.html            "village ranking"
+  → lerici-from-la-spezia-cruise.html                   "Lerici guide"
+  → lucca-from-la-spezia-cruise-port.html               "Lucca guide"
+  → la-spezia-city-guide-cruise-passengers.html         "La Spezia city guide"
+  → ligurian-food-la-spezia-cruise.html                 "Ligurian food and culture guide"  [NEW]
+  → pisa-from-la-spezia-cruise-port.html                "Pisa guide"
+  → independent-vs-guided-tours-la-spezia.html          "independent vs guided tours from La Spezia"
+  → half-day-excursions-la-spezia-cruise.html           "half-day excursion guide"
+  → private-vs-group-shore-excursions-la-spezia.html    "private vs group shore excursion comparison"  [NEW]
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+12. independent-vs-guided-tours-la-spezia.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "All Excursion Options"
+
+BODY
+  → cinque-terre-from-la-spezia-cruise-port.html        "Cinque Terre guide"
+  → cinque-terre-villages-ranked-cruise.html            "village ranking"
+  → porto-venere-from-la-spezia-cruise.html             "Porto Venere guide"
+  → lucca-from-la-spezia-cruise-port.html               "Lucca day trip guide"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt from La Spezia"
+  → private-truffle-hunting-tour-la-spezia.html         "private experience"
+  → best-excursions-la-spezia-cruise-ranked.html        "ranked guide to excursions from La Spezia cruise port"
+  → half-day-excursions-la-spezia-cruise.html           "half-day excursion guide"
+  → private-vs-group-shore-excursions-la-spezia.html    "private vs group shore excursion guide"  [NEW]
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+13. unique-experiences-la-spezia-cruise.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "See All Excursions"
+
+BODY
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt from La Spezia cruise port"
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour"
+  → truffle-hunting-liguria-what-to-expect.html         "what to expect on a truffle hunt in Liguria"
+  → ligurian-food-la-spezia-cruise.html                 "guide to Ligurian food and culture"  [NEW]
+  → la-spezia-food-experiences-comparison.html          "La Spezia food experiences guide"
+  → index.html                                          "complete guide to activities from La Spezia cruise port"  [was activities]
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt shore excursion guide"  [second link]
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+14. half-day-excursions-la-spezia-cruise.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "See All Excursions"
+
+BODY
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt from La Spezia cruise port"
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour guide"
+  → porto-venere-from-la-spezia-cruise.html             "Porto Venere guide"
+  → lerici-from-la-spezia-cruise.html                   "Lerici guide"
+  → la-spezia-city-guide-cruise-passengers.html         "city guide"
+  → cinque-terre-villages-ranked-cruise.html            "Cinque Terre village ranking"
+  → index.html                                          "full guide to activities from La Spezia cruise port"  [was activities]
+  → best-excursions-la-spezia-cruise-ranked.html        "ranked excursion guide"
+  → independent-vs-guided-tours-la-spezia.html          "independent vs guided tours comparison"
+  → private-vs-group-shore-excursions-la-spezia.html    "private vs group excursion guide"  [NEW]
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+15. la-spezia-food-experiences-comparison.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → best-excursions-la-spezia-cruise-ranked.html        "See All Excursions"
+
+BODY
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt from La Spezia guide"
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour"
+  → ligurian-food-la-spezia-cruise.html                 "Ligurian food guide"
+  → truffle-hunting-liguria-what-to-expect.html         "guide to what to expect on a Ligurian truffle hunt"
+  → la-spezia-shore-excursion-truffle-hunting.html      "shore excursion overview"
+  → best-excursions-la-spezia-cruise-ranked.html        "complete excursion ranking"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+16. private-vs-group-shore-excursions-la-spezia.html
+──────────────────────────────────────────
+HERO
+  → private-truffle-hunting-tour-la-spezia.html         "Book Private Truffle Hunt"
+  → truffle-hunt-la-spezia-cruise-port.html             "Group Truffle Hunt"
+
+BODY
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour guide"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt shore excursion page"
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour page"  [second link]
+  → best-excursions-la-spezia-cruise-ranked.html        "ranked excursion guide"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+17. truffle-hunt-la-spezia-cruise-port.html
+──────────────────────────────────────────
+HERO
+  → private-truffle-hunting-tour-la-spezia.html         "Private Tour"
+  [NOTE: "Book Your Truffle Hunt" links to #book — anchor only, excluded]
+
+BODY
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour from La Spezia"
+  → truffle-hunting-liguria-what-to-expect.html         "truffle hunting in Liguria"
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour guide"  [second link]
+  → best-excursions-la-spezia-cruise-ranked.html        "excursion ranking"
+
+CTA
+  [links to #book — anchor only, excluded]
+
+──────────────────────────────────────────
+18. private-truffle-hunting-tour-la-spezia.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunting-liguria-what-to-expect.html         "What to Expect"
+  [NOTE: "Book Private Tour" links to #book — anchor only, excluded]
+
+BODY
+  → truffle-hunting-liguria-what-to-expect.html         "truffle hunting in Liguria"
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt shore excursion page"
+  → la-spezia-food-experiences-comparison.html          "food experiences comparison"
+  → private-vs-group-shore-excursions-la-spezia.html    "private vs group excursion guide"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+19. truffle-hunting-liguria-what-to-expect.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → private-truffle-hunting-tour-la-spezia.html         "Private Tour"
+
+BODY
+  → truffle-hunt-la-spezia-cruise-port.html             "truffle hunt shore excursion page"
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour page"
+  → la-spezia-food-experiences-comparison.html          "food experiences comparison"
+  → best-excursions-la-spezia-cruise-ranked.html        "complete excursion ranking"
+  → la-spezia-shore-excursion-truffle-hunting.html      "shore excursion overview page"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+──────────────────────────────────────────
+20. la-spezia-shore-excursion-truffle-hunting.html
+──────────────────────────────────────────
+HERO
+  → truffle-hunt-la-spezia-cruise-port.html             "Book Truffle Hunt"
+  → truffle-hunting-liguria-what-to-expect.html         "What to Expect"
+
+BODY
+  → best-excursions-la-spezia-cruise-ranked.html        "complete excursion ranking"
+  → truffle-hunt-la-spezia-cruise-port.html             "main truffle hunt booking page"
+  → private-truffle-hunting-tour-la-spezia.html         "private truffle hunting tour"
+  → truffle-hunting-liguria-what-to-expect.html         "guide to what to expect on a Ligurian truffle hunt"
+  → la-spezia-food-experiences-comparison.html          "food experiences comparison"
+
+CTA
+  → truffle-hunt-la-spezia-cruise-port.html             "Book the Truffle Hunt"
+
+══════════════════════════════════════════
+LEGACY / ORPHANED PAGE
+══════════════════════════════════════════
+
+  • activities-from-la-spezia-cruise-port.html
+    Legacy version of index.html. All inbound links across the site were updated
+    to point to index.html. This page no longer receives any inbound links from
+    the rest of the site and can be deleted once confirmed.
+
+══════════════════════════════════════════
+INBOUND BODY/HERO LINK SUMMARY — KEY PAGES
+(shared NAV and FOOTER not counted)
+══════════════════════════════════════════
+
+  private-vs-group-shore-excursions-la-spezia.html
+    Body links in from: index (body), independent-vs-guided (body),
+      best-excursions-ranked (body), half-day (body),
+      private-truffle-hunting (body)
+    [5 inbound body links — was 0 before 3rdpass.txt]
+
+  ligurian-food-la-spezia-cruise.html
+    Body links in from: la-spezia-city-guide (body), lerici (body),
+      la-spezia-food-experiences (body), cinque-terre (body),
+      porto-venere (body), unique-experiences (body),
+      best-excursions-ranked (body)
+    [7 inbound body links — was 3 before 3rdpass.txt]
+
+  index.html (home)
+    Body links in from: lucca (body), best-beaches (body),
+      la-spezia-city-guide (body), pisa (body), unique-experiences (body),
+      half-day (body), ligurian-food (body), porto-venere (body)
+    Hero links in from: best-excursions-ranked (hero)
+    [8 inbound body + 1 hero links]
+
+  best-excursions-la-spezia-cruise-ranked.html
+    Body/hero links in from: almost all pages
+
+  truffle-hunt-la-spezia-cruise-port.html
+    Body/hero/CTA links in from: almost all pages
